@@ -26,3 +26,4 @@ Welcome to my portfolio. I document a summary of my projects here.
 |---||---|---|
 | SQL Challenges | This is my knowledge from self-study. | Data cleaning, Aggregation |
 
+| a | a |
