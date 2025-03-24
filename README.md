@@ -2,9 +2,9 @@
 Welcome to my portfolio. I document a summary of my projects here.
 
 ## 📑 Table of Contents
-- [Python](##Python)
-- [VBA](##ExcelVBA)
-- [SQL](##SQL)
+- Python
+- VBA
+- SQL
 
 ## Python
 
