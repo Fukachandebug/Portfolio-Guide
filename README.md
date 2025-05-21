@@ -2,9 +2,15 @@
 Welcome to my portfolio. I document a summary of my projects here.
 
 ## 📑 Table of Contents
+- Power BI
 - Python
 - VBA
 - SQL
+
+## Power BI
+| Project Link | Project Description | Analysis Methods |
+| 📖 **NYC Yellow Taxi Analysis** | Created a dashboard using taxi trips data from Kaggle. | Data cleaning |
+
 
 ## Python
 
