@@ -17,7 +17,7 @@ Welcome to my portfolio. I document a summary of my projects here.
 
 | Project Link | Project Description | Analysis Methods | Libraries |
 |-------------|----------------------|------------------|-----------|
-| 📺 **[TV Advertising Placement Optimization](https://github.com/Fukachandebug/TV-Advertising-Analysis.git)** | Analyzed data from 3,000 individuals, including demographics, TV ad viewership, purchase behavior, and ad placements. Identified optimal viewing frequencies and ad content features to maximize purchase intent. Developed cost-effective ad placement strategies for each target demographic. | - Generalized propensity score analysis  <br> - Multiple correspondence analysis  <br> - Linear programming  <br> - Logistic regression model | pandas, numpy, matplotlib, linprog, statsmodels |
+| 📺 **[TV Advertisement Placement Optimization](https://github.com/Fukachandebug/TV-Advertising-Analysis.git)** | Analyzed data from 3,000 individuals, including demographics, TV ad viewership, purchase behavior, and ad placements. Identified optimal viewing frequencies and ad content features to maximize purchase intent. Developed cost-effective ad placement strategies for each target demographic. | - Generalized propensity score analysis  <br> - Multiple correspondence analysis  <br> - Linear programming  <br> - Logistic regression model | pandas, numpy, matplotlib, linprog, statsmodels |
 | 🚶 **Analysis of Walking Posture and Awareness** | Analyzed 2D walking posture data and survey responses on self-image and posture awareness from 75 individuals. | - Factor analysis  <br> - Logistic regression model | dplyr |
 
 
@@ -29,9 +29,9 @@ Welcome to my portfolio. I document a summary of my projects here.
 
 ## SQL
 
-| Project Link | Project Description | Area |
+| Project Link | Project Description | Analysis Method |
 |--------------|---------------------|------|
-| 🔥 **SQL Challenges** | This is my knowledge from self-study. | Data cleaning, Aggregation |
+| 🔥 **AdventureWorks Analysis** | Created dashboard using Adventureworks database 2016. | Data cleaning, Data visualization |
 
 
 
