@@ -25,7 +25,7 @@ Welcome to my portfolio. I document a summary of my projects here.
 
 | Project Link | Project Description | Analysis Methods |
 |-------------|----------------------|------------------|
-| 📖 **Automation of Testing Result Documentation** | Developed 3 automation tools to streamline manual routine tasks of documenting testing results for customer reports. | Data cleaning |
+| 📖 **[Automation of Testing Result Documentation](https://github.com/Fukachandebug/Automation-of-Testing-Result-Documentation.git)** | Developed 3 automation tools to streamline manual routine tasks of documenting testing results for customer reports. | Data cleaning |
 
 ## SQL
 
