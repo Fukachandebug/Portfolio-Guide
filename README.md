@@ -7,7 +7,7 @@ Welcome to my portfolio. I document a summary of my projects here.
 - VBA
 - SQL
 
-## Power BI / Dahsboard
+## Power BI / Dashboard
 | Project Link | Project Description | Analysis Methods |
 |-------------|----------------------|------------------|
 | 🚕 **[NYC Yellow Taxi Analysis](https://github.com/Fukachandebug/NYC-Yellow-Tax-Analysis)** | Created a dashboard using taxi trips data from Kaggle. | Data cleaning |
