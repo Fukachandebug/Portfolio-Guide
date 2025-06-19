@@ -10,7 +10,8 @@ Welcome to my portfolio. I document a summary of my projects here.
 ## Power BI
 | Project Link | Project Description | Analysis Methods |
 |-------------|----------------------|------------------|
-| 🚕 **[NYC Yellow Taxi Analysis](https://github.com/Fukachandebug/NYC-Yellow-Tax-Analysis)** | Created a dashboard using taxi trips data from Kaggle. | Data visualization, Data cleaning|
+| 🚕 **[NYC Yellow Taxi Analysis](https://github.com/Fukachandebug/NYC-Yellow-Tax-Analysis)** | Created a dashboard using taxi trips data from Kaggle. | Data cleaning |
+| 👙 **[Wish E-commerce Sales Analysis]()** | Cleaned datasets scraped from the Wish website using Python and analyzed key sales factors for new sellers by creating an interactive dashboard. | Data cleaning, Multiple-Regression Analysis |
 
 
 ## Python
@@ -31,7 +32,7 @@ Welcome to my portfolio. I document a summary of my projects here.
 
 | Project Link | Project Description | Analysis Method |
 |--------------|---------------------|------|
-| 🔥 **AdventureWorks Analysis** | Created dashboard using Adventureworks database 2016. | Data cleaning, Data visualization |
+| 🔥 **AdventureWorks Analysis** | Created dashboard using Adventureworks database 2016. | Data cleaning |
 
 
 
