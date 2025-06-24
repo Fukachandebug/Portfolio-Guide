@@ -32,7 +32,7 @@ Welcome to my portfolio. I document a summary of my projects here.
 
 | Project Link | Project Description | Analysis Method |
 |--------------|---------------------|------|
-| 🔥 **AdventureWorks Analysis** | Created dashboard using Adventureworks database 2016. | Data cleaning |
+| 🔥 **Adventureworks Analysis** | Created dashboard using Adventureworks database 2016. | Data cleaning |
 
 
 
